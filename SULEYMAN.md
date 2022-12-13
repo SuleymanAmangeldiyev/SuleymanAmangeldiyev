@@ -1,6 +1,6 @@
  # ***👋 Hi, I’m Suleyman Amangeldiyev *** # 
  --
- This is:(https://turkmencodes.com/)/ my main website (NOTE: it will up updated two times in a month)
+ This is:(https://turkmencodes.com)/ my main website (NOTE: it will up updated two times in a month)
 --
 # Here I will put my own works: links
 - 1. https://sai-explaining-demo-suleyman.netlify.app/
