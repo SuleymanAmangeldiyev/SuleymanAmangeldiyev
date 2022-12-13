@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and improving my WEB and SAI skills 
 - 💞️ I’m looking to collaborate on for WEB developent
 - 📫 How to reach me Tel: +40-731-466-177 / Mail: suleyman20071998@gmail.com
+- 🛠  My works /  https://github.com/SuleymanAmangeldiyev/SuleymanAmangeldiyev/blob/main/SULEYMAN.md 
 
 <!---
 SuleymanAmangeldiyev/SuleymanAmangeldiyev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
