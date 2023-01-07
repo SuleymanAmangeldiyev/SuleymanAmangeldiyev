@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suleyman Amangeldiyev
-- 👀 I’m interested in WEB programming
-- 🌱 I’m currently learning and improving my WEB skills 
+- 👀 I’m interested in WEB and AI programming
+- 🌱 I’m currently learning and improving my WEB and AI skills 
 - 💞️ I’m looking to collaborate on for WEB developent
 - 📫 How to reach me Mail: suleyman20071998@gmail.com
 - 🛠  My works /  https://github.com/SuleymanAmangeldiyev/SuleymanAmangeldiyev/blob/main/SULEYMAN.md 
