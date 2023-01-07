@@ -2,7 +2,7 @@
 
 --
 # Here I will put my own works: links
-- 1.
+- 1.https://mekan3657.wixsite.com/turkmen-codes ( it is good to know how to use modern tools too😎)
 
 
 
