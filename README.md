@@ -32,7 +32,7 @@ You can share our videos with your friends or family!
 You can donate this project over these:
 USDT (TRC-20) TFixpAfh2Q7W7bajGzBAx3nUcobdpidQqo
 
--  (USD $)
+- 
 - IBAN: LT40 3250 0407 0763 4523
 - BIC: REVOLT21
 - Beneficiary: Suleyman Amangeldiyev
